@@ -10,6 +10,7 @@
         <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-black md:text-5xl lg:text-8xl px-8">Clothes</h1>
         
         <p class="mb-8 text-lg font-normal text-gray-700 lg:text-xl px-8">Live for Influential and Innovative fashion!</p>
+        <p class="mb-8 text-lg font-normal text-gray-700 lg:text-xl px-8">TEST CHANGE</p>
         
         <!-- <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
             <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
